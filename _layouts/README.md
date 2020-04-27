@@ -2,6 +2,10 @@
 
 This is a folder for HTML content specially for certain pages on the site.
 
-default.html --> is for the header and the footer of the home page
+## default.html
+This is HTML for the header and the footer of the home page
+
+## posts.html
+This is HTML for individual posts.
 
 
